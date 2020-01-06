@@ -2,6 +2,7 @@ import random
 from Swap.Swap import swap
 import timeit
 
+#push for github from windows console
 
 """Decorator to be able tu mesure the time of execution"""
 def wrapper(func, *args, **kwargs):
